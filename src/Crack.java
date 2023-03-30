@@ -1,3 +1,9 @@
+/**
+ * @author Trevor Hartman
+ * @author Rachelle Iloff
+ * created 3/29/2023
+ * @since version 1.0
+ */
 import org.apache.commons.codec.digest.Crypt;
 
 import java.io.FileInputStream;
