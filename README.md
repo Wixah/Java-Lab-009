@@ -24,8 +24,7 @@ private String passHash;
     * the **split** method and the delimiter **:** to split each line into a string array (i.e. String[])
     * use the first 2 elements of the split string array to create a **new User(element1, element2)**
     * and finally store each new User into a User array (i.e. User[] users), and return the array.
-  
-## PART 3 - Implement method crack
+
 
 * Finish implementing the method crack to do the following:
     * Similar to your parseShadow method, use the **FileInputStream** and **Scanner** class to read the **resources/englishSmall.dic** file line by line.
